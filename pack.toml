@@ -1,0 +1,18 @@
+name = "Anville"
+author = "Khazoda"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a18db8f9fe265d2e9ea79bc4b27440f3d7128c1eaa9e8aaf0c8c188883482099"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.128"
+
+[options]
+acceptable-game-versions = ["1.21", "1.21.1"]
+datapack-folder = "basicweapons_materialpacks/"
+no-internal-hashes = ["resourcepacks/*"]
