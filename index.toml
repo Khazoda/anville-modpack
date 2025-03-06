@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "config/defaultoptions/extra/config/moreculling.toml"
-hash = "7136ae12831056383a7640c1373e236c3e9cfd22af503f0711fc6fbafd1c6260"
+hash = "5533b815e41b69f4af7b8c2cf45c6dccbf1f146bebfbe6f97e4102a93efda472"
 
 [[files]]
 file = "config/defaultoptions/extra/config/sodium-options.json"
