@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "874f578662fd07d02038e7d31e475ed9e1bbda2be31d5067cba21440289e68d8"
+hash = "e94bd41a54a72723e283df0c6a870c7baef0fa38ee9099842470f9fd10fc7e70"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "a961245b2a04dede935966d6ef018174bfbe8def94a21cebe9877bb44ce59ba3"
+hash = "69c5ae686703cc74e092591cd5a1939bd5cc2e8522f928c77a77ab803be5e77e"
 metafile = true
 
 [[files]]
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "4c6d9e09a9cb4dbd1cae6a962da9a5838eab21a3cf8514784359d6ae0dc13199"
+hash = "32ae660626d91a73a70a83d6c5be17fbb0b42e4f7e9bee694c5ee674aef97cd8"
 metafile = true
 
 [[files]]
@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "0466135afa02cfcbd7447eda8f38e708f3d01a56719a3526b696a2d672b4ad87"
+hash = "51b85f6d9555f015aa4e0bc073ab523199b6df35e325077bcf14fd60ba84a513"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "1a06479cf811afadf8eb5b5a8cbb0c01bbda2f102530b44c86559b8450d3fb21"
+hash = "8f40098ed250715b6fc189084cbb1f8252501a0fd096a57760b211b0c3e75614"
 metafile = true
 
 [[files]]
