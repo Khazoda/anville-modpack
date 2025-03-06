@@ -45,6 +45,11 @@ hash = "5724ca10bd6d37de46834ab762a46f9ce09175f0a4fa0e2ab633846067940c03"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "268f35112d9b1637f9d5e7beea999d9dbda8ae746d1d98fb2cd8e23c5f5ac98f"
 metafile = true
@@ -82,6 +87,31 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-capture-xp.pw.toml"
+hash = "34200b146a1b449b95cd8adfb8640c80b50d55217c466e57b33539b765f98841"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
+hash = "5ade798fd112a5717fc43ebcae2ee15482e0d3bad8dd3b67a1af1a82b5605551"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-release-rewards.pw.toml"
+hash = "4afbf0f310f87c9f6171d97ee81177c8f1117d86fe0275776ae37cb4ceaa68e3"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-ride-on!.pw.toml"
+hash = "0a3f9832293dda58f201f48268ebf9b4b2f45775c0ee799b591ae3ec2d2995b3"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-spawn-notification.pw.toml"
+hash = "6bb5d25197506cac43a0a3ae59932bb11c4c18919b0c57f5099e9947ab120914"
 metafile = true
 
 [[files]]
@@ -287,6 +317,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/better-flame-particles.pw.toml"
 hash = "258c5930590083efc970b0aada275d8e3d19d26863a60baee63349d355d8359a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemotion.pw.toml"
+hash = "49e31f2f98209f6f47ec93180e98479e14dd01cdbb8fbdf58f984d0e66303c84"
 metafile = true
 
 [[files]]
