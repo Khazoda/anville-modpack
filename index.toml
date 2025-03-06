@@ -1,8 +1,23 @@
 hash-format = "sha256"
 
 [[files]]
+file = "basicweapons_materialpacks/bwmp_amethyst_minecraft.pw.toml"
+hash = "42503a012228c3040e8571d84c6c3988f6a360638cbb08efc9fb89b3103abea3"
+metafile = true
+
+[[files]]
 file = "basicweapons_materialpacks/bwmp_copper_minecraft.pw.toml"
 hash = "da911a04eb03e5d32914204c3b006ad91ab50b9af6882346bceb2a8f853f791b"
+metafile = true
+
+[[files]]
+file = "basicweapons_materialpacks/bwmp_emerald_minecraft.pw.toml"
+hash = "effa4975d998c9e999995adcafa27e572300cfe2f6848d2b1f92eae8ae6153f9"
+metafile = true
+
+[[files]]
+file = "basicweapons_materialpacks/bwmp_obsidian_minecraft.pw.toml"
+hash = "fb2efb0d192d9e0d97be1dd27221d81854896e52e29983bb1700332c16a6f6fe"
 metafile = true
 
 [[files]]
