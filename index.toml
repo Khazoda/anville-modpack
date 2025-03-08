@@ -38,11 +38,11 @@ hash = "ddd8950d7d4c21a8bb2761a196ffb397a2d3b65fe293aa0938b7a381b196cdee"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "e4c1b5e637464122fb24443fef4ff6ec248d4044ad44ec3157103d5bf98007fb"
+hash = "9122f7d70887d0fb852d7563316d0aac163acffbb11c75f02307f02448731c02"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "5d248d337f1b9102b974b2498b623cd469ee1b9fb054af4d9dbe6423ac841794"
+hash = "8fddabaa227977cf6c16a5eeb028ee59cd8a1537cd00bafe4e31a19009dbd256"
 
 [[files]]
 file = "mods/advancement-screenshot.pw.toml"
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "27ffeceea1bb50c9d613538924e7b37e1bc36e3bbaf9839f2b5abd47bf941838"
+hash = "017099a64d7b8b13bb16da42abd811f0638c6289d29f158d37590f8fb0401674"
 metafile = true
 
 [[files]]
@@ -112,6 +112,16 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
 hash = "5ade798fd112a5717fc43ebcae2ee15482e0d3bad8dd3b67a1af1a82b5605551"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-mass-outbreaks.pw.toml"
+hash = "59af84d912aad07e05db9a4ed00039dde4ec2ea20077f5f94aa5e404dd4590f0"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-move-inspector.pw.toml"
+hash = "b042cc9ab27d9d15a9919f9879d0c06ae0422b4c3b8fa9933345af20435da397"
 metafile = true
 
 [[files]]
@@ -155,11 +165,6 @@ hash = "1d99ac75f92996ec9673e39c012a51dc4b05c48ef7bf672ccaf5e7464a1a3d13"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-fps.pw.toml"
-hash = "1c57dff8f8e04e0e6995a888e62331814853a18942365c2b47b4776e2551fee9"
-metafile = true
-
-[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "ff029ee6fc50f2696e96cdbcc696f42e75b483c9d7b83f2b1447dcf5c865e664"
 metafile = true
@@ -195,11 +200,6 @@ hash = "69c5ae686703cc74e092591cd5a1939bd5cc2e8522f928c77a77ab803be5e77e"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "32ae660626d91a73a70a83d6c5be17fbb0b42e4f7e9bee694c5ee674aef97cd8"
 metafile = true
@@ -225,6 +225,11 @@ hash = "298501d10980ed74135b92bb0ce3aea2008094c682176cdcf9e6274c03690407"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "77b86ca843207273549875640b1c16254c2486e67127c37344c186b503da96ed"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "0033c5a00c46d5d7b6cf77b19fa76ce5c78a613f3128dcadb3588fa5841ae489"
 metafile = true
@@ -235,11 +240,6 @@ hash = "5ce96ac040fca257f41959be41ad80ba790102dc91cccd8c09e81eed19fa6478"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
-hash = "0fb9b58c17adaf54255401dad1f6f7ff4d1971c42d0f1658dea4ca2171932089"
-metafile = true
-
-[[files]]
 file = "mods/lootr.pw.toml"
 hash = "51b85f6d9555f015aa4e0bc073ab523199b6df35e325077bcf14fd60ba84a513"
 metafile = true
@@ -247,11 +247,6 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
-metafile = true
-
-[[files]]
-file = "mods/modernfix.pw.toml"
-hash = "734da85a1770ed0489132d97ce86130c5dc1ae1800d5802d5ecb07f44e15468b"
 metafile = true
 
 [[files]]

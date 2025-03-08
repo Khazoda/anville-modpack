@@ -1,0 +1,13 @@
+name = "Cobblemon Mass Outbreaks"
+filename = "cobblemonoutbreaks-neoforge-1.0.0-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZrvT3v2D/versions/fb6PZeZQ/cobblemonoutbreaks-neoforge-1.0.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "b4bfb628fd8cea0c20a0f47c945af8b8da5d902a99913e9f0e1e8656a7d50e952cad3893e2946e7efc3f56860b4570be282cbf0e6b140eab828e96b3444cd0c8"
+
+[update]
+[update.modrinth]
+mod-id = "ZrvT3v2D"
+version = "fb6PZeZQ"
