@@ -21,6 +21,14 @@ hash = "fb2efb0d192d9e0d97be1dd27221d81854896e52e29983bb1700332c16a6f6fe"
 metafile = true
 
 [[files]]
+file = "config/defaultoptions/extra/config/betterf3.toml"
+hash = "8845d39a2024e9b804111e28fbfcf060905df4979832104039a9d2f3a5781c40"
+
+[[files]]
+file = "config/defaultoptions/extra/config/jade/jade.json"
+hash = "3c223529c36ce84fc764d8fca33598991883d196596b2870646f45bc13fa69d3"
+
+[[files]]
 file = "config/defaultoptions/extra/config/moreculling.toml"
 hash = "5533b815e41b69f4af7b8c2cf45c6dccbf1f146bebfbe6f97e4102a93efda472"
 
@@ -96,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "1e35659b538887b310477e8581c8fbcec93b407c1b9ba04a7c8c05d060a33eb7"
+hash = "97c31097bdacdd1765f107431b033ab6ae7f328fb9a60aef04474340204b1050"
 metafile = true
 
 [[files]]
