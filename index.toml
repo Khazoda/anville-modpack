@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "Changelog.md"
-hash = "e172b578640aed34440f87bb54fd221050894066c676dd8351be50e2735366b2"
+hash = "4c21a38f378939aa67bd95a352f198e8ea26c6df0ff05d0a683a1cb9b1cb79ae"
 
 [[files]]
 file = "basicweapons_materialpacks/bwmp_amethyst_minecraft.pw.toml"
@@ -27,6 +27,10 @@ metafile = true
 [[files]]
 file = "config/defaultoptions/extra/config/betterf3.toml"
 hash = "8845d39a2024e9b804111e28fbfcf060905df4979832104039a9d2f3a5781c40"
+
+[[files]]
+file = "config/defaultoptions/extra/config/cobblemonoutbreaks/outbreaks_config.json"
+hash = "0904107f108103f031cc135098c0fbc5b45212bc6dcc9d5c660ab3449124fba8"
 
 [[files]]
 file = "config/defaultoptions/extra/config/jade/jade.json"
@@ -173,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "22cbffc716babfbb34155fcfd8cfc6ffb94efd67a67607e6d1ef9b02f7484fe2"
+hash = "f77098be75305f93641931d1985f3aa67de551b1beae89b53555ad04417c0e46"
 metafile = true
 
 [[files]]
@@ -268,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "9fe47a3be82e2d8f993d579c611945b30f76471289b9ac1b82285fff60eff5cc"
+hash = "390fe2708337120b8da8e57d0effa71c4c7c09fdc4fe8e84271bc3248484a131"
 metafile = true
 
 [[files]]
