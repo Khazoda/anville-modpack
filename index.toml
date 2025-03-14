@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Changelog.md"
+hash = "e172b578640aed34440f87bb54fd221050894066c676dd8351be50e2735366b2"
+
+[[files]]
 file = "basicweapons_materialpacks/bwmp_amethyst_minecraft.pw.toml"
 hash = "42503a012228c3040e8571d84c6c3988f6a360638cbb08efc9fb89b3103abea3"
 metafile = true
@@ -119,7 +123,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
-hash = "5ade798fd112a5717fc43ebcae2ee15482e0d3bad8dd3b67a1af1a82b5605551"
+hash = "8317eb8c4b12cab6f9bf92043769fbdbb99129058960f1bc5d17fe4023773297"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-integrations.pw.toml"
+hash = "69c59f5d7eaf9489c5e0f870e2b5bf1d5c5e9cd8dbff028f85dad5896b4cd09f"
 metafile = true
 
 [[files]]
@@ -209,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "32ae660626d91a73a70a83d6c5be17fbb0b42e4f7e9bee694c5ee674aef97cd8"
+hash = "e27bf546182fc60c59cd535f0bd54c4f1aefd6a99db6ce49b9ca22bfd14c2b63"
 metafile = true
 
 [[files]]
@@ -229,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "298501d10980ed74135b92bb0ce3aea2008094c682176cdcf9e6274c03690407"
+hash = "652900870d343dda5683456934ca76bf176ea54da73d9883d8a13c9b3cae2fac"
 metafile = true
 
 [[files]]
@@ -249,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "51b85f6d9555f015aa4e0bc073ab523199b6df35e325077bcf14fd60ba84a513"
+hash = "54027603401c42860c29864e4e5e8639516743d2f3d17e51153fd841ffd58f5c"
 metafile = true
 
 [[files]]
@@ -259,12 +268,12 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "0d0343d84ff11294b674d44c45d28281272ffa23d96f2edc368317747aebce03"
+hash = "9fe47a3be82e2d8f993d579c611945b30f76471289b9ac1b82285fff60eff5cc"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "8f40098ed250715b6fc189084cbb1f8252501a0fd096a57760b211b0c3e75614"
+hash = "91696791780719730cb8826de0c53d8513a7c2b320f7d641dbeb6ca974e5cec3"
 metafile = true
 
 [[files]]
@@ -319,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "7098bc36dd1c26d0077d34b75497b223e0d0889b5beb8c93259b3ab8b2cd7133"
+hash = "3210eecdbe8650d99b13d5a8c8c8590a8ea2548b2cba0b2a64e8d4120571653c"
 metafile = true
 
 [[files]]
