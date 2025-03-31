@@ -1,13 +1,13 @@
 name = "Bronze"
-filename = "bronze-neoforge-1.21.1-2.0.0.jar"
+filename = "bronze-neoforge-1.21.1-2.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6pVlXMty/versions/Es23iLbC/bronze-neoforge-1.21.1-2.0.0.jar"
+url = "https://cdn.modrinth.com/data/6pVlXMty/versions/yAl2dMcE/bronze-neoforge-1.21.1-2.0.1.jar"
 hash-format = "sha512"
-hash = "267932bce89e21c0b5129b7eb53f98d8e5006f7e230055906760cd383266dd77b41c6c7f630222d76f1ce84b66384389f8ae2aca048b9d1e218d19c36efa7372"
+hash = "5778bcff330406272474f326b0e40f1a5e6f4e544faaf17ae9989f6caadb0e1d9d8aca330dc6fb43ceaca8f1c6169d9ee269daf16cf2f3812b19abf488037588"
 
 [update]
 [update.modrinth]
 mod-id = "6pVlXMty"
-version = "Es23iLbC"
+version = "yAl2dMcE"

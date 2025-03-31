@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "a45b28afea3725cde8f7ad1267d84aee8d278e2c5fea3772c74cebcca9a3c6a7"
+hash = "1fa5075c1ebd310416d705674d6ae90975fa8971ce6cf04478f548a18c58d0da"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "268f35112d9b1637f9d5e7beea999d9dbda8ae746d1d98fb2cd8e23c5f5ac98f"
+hash = "39fa4b2a7a974569a211e96ca6f100454f15084c4e96200b3d9c304b6c172c75"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/bronze.pw.toml"
-hash = "887f5d71151b1df1d66b984711ded461e1d6ae170ae93889f50d9b5880766c83"
+hash = "d9c1ae4385a60d4b82c1287845964357780e741c702f24b285e57cf074198252"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
-hash = "34200b146a1b449b95cd8adfb8640c80b50d55217c466e57b33539b765f98841"
+hash = "31957d8038d99d554871cf45c6f1dd321d47e41b85e90247a1f472da157267e9"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mass-outbreaks.pw.toml"
-hash = "59af84d912aad07e05db9a4ed00039dde4ec2ea20077f5f94aa5e404dd4590f0"
+hash = "601182acab17221c07710c0f1763447f5e3be9282eb0f130c837b67e0b223546"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-spawn-notification.pw.toml"
-hash = "6bb5d25197506cac43a0a3ae59932bb11c4c18919b0c57f5099e9947ab120914"
+hash = "fe3fd05be2f9a498c0ec3737185f136d72cf9031e64d7add0bf59083c8be6a7e"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "e94bd41a54a72723e283df0c6a870c7baef0fa38ee9099842470f9fd10fc7e70"
+hash = "346c69a01085479b5301c1968cce7bb12cbb8f2ddc73a91bef8dcb439d53ef88"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "f77098be75305f93641931d1985f3aa67de551b1beae89b53555ad04417c0e46"
+hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "f98bb58144f3b207bc5ebc99d898e1c2557924e27f403e670f491f5ec7d72863"
+hash = "7f22959445f6830022e0dd5e71fb60298648cbc208977061f332f39f468f6fd9"
 metafile = true
 
 [[files]]
@@ -222,12 +222,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "e27bf546182fc60c59cd535f0bd54c4f1aefd6a99db6ce49b9ca22bfd14c2b63"
+hash = "eaf70ca8f5f5418f5f1a4c91b1949be1f8d090d520c90b6baa91fa39cf052561"
 metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "8da78a0ede953607199bdb40864ac978a9d28be418a5b60037d6b3f91ba59d13"
+hash = "4671a699d5d182d4ac4ddaa4185bd953aeae56f1685491715ed3e2ccc86f1631"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "54027603401c42860c29864e4e5e8639516743d2f3d17e51153fd841ffd58f5c"
+hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "390fe2708337120b8da8e57d0effa71c4c7c09fdc4fe8e84271bc3248484a131"
+hash = "afb4373c63b5ef3ac5ad0651fbbb2db5cf322f2658597e3bad8a0302d124b41c"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/plushables.pw.toml"
-hash = "45e93389f8b208228979ea2e7d4e6135a1d6b42732913eaabcf035981e5933c9"
+hash = "31304da6bc75d8170748869a01703a14ee35ec3305768ac8eb8aa218e3c20f88"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "3210eecdbe8650d99b13d5a8c8c8590a8ea2548b2cba0b2a64e8d4120571653c"
+hash = "16cd4f5afbf70ff2afaab0aaaa21345e04d0c8a3b6fa7bc1fe9da1ab77d3b81d"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/simple-grass-flowers.pw.toml"
-hash = "b3a4b2c80fdf07113a637490be6a2e03171eee549bfa9d3bd0e982e19412046e"
+hash = "2c4f4c1252a2ad62ac168bc529b9e04a8de3c74a2dd3038254224281557599ad"
 metafile = true
 
 [[files]]
