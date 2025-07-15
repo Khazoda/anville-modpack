@@ -1,16 +1,16 @@
 name = "Anville"
 author = "Khazoda"
-version = "1.0.9"
+version = "1.0.10"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e56619d8848b675b7c2edb461b235cc2d4a40e60f50b8976f4a9be5b81ba8235"
+hash = "b23976a670ce6464c840ef98fec0a07f322d345554f23bb9d79c172d3db59642"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.133"
+neoforge = "21.1.192"
 
 [options]
 acceptable-game-versions = ["1.21", "1.21.1"]
